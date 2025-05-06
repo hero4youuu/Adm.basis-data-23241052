@@ -1,6 +1,6 @@
 -- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
--- Nama     : Muh. Haeril Rapli
--- NIM      : 23241069
+-- Nama     : sulfan aditya prasety 
+-- NIM      : 23241052
 -- Kelas    : IV B
 
 -- menggunakan database
